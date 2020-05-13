@@ -1,0 +1,2 @@
+# DeleteVowels
+DELETE VOWELS Delete Vowels  Write a program to delete all vowels present in a string.     Input and Output Format:  Input consists of a string. Assume that all characters in the string are lowercase letters and the maximum length of the string is 200.  Refer sample input and output for formatting specifications.  All text in bold corresponds to input and the rest corresponds to output.     Sample Input and Output:  Enter the input string  amphisoft  The output string is mphsft
